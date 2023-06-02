@@ -1,10 +1,10 @@
 
 {
   "posts": [
-    { "id": 1, "title": "Riser" },
-    { "id": 2, "title": "Limbs" },
-    { "id": 3, "title": "Sight" },
-    { "id": 4, "title": "Stabilizator" }
+    { "id": 1, "title": "Riser", "image": "https://t2.gstatic.com/images?q=tbn:ANd9GcQ1Iu0WToADogUIZ0xtBGn7bXe3r_pqXMNEYlPoBhTj9CY8YiCH" },
+    { "id": 2, "title": "Limbs", "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQVUVVCj1Y3XAJ5Kq07xtHdv3cK6pPmV8Q_lffnZcocUi_bz09u"},
+    { "id": 3, "title": "Sight", "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSymA1wxIpugZqWcOdSx1ew53yz0buFTD4_WibHe2c65jaPhzov"},
+    { "id": 4, "title": "Stabilizator", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3xt1KTreiYRxGOT0iShbtGKV3t5GU7GZF1cSASJHEyaSVgSP"}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
